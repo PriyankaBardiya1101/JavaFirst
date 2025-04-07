@@ -1,2 +1,3 @@
 Hello.
 Java is very simple language.
+java is Critical.
